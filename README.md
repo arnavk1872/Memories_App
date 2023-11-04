@@ -1,5 +1,8 @@
 # Memories_App
 
+<img width="894" alt="Screenshot 2023-11-04 191312" src="https://github.com/arnavk1872/Memories_App/assets/92296669/2998618b-0a74-4602-8760-f9c79d952cdb">
+
+
 **Memories - Your Personal Storybook**
 
 "Memories" is a MERN stack-based social media application that enables users to create, share, and relive significant moments in their lives. With an easy-to-use interface, it provides a platform for users to post and revisit their cherished memories. Key features include:
@@ -26,5 +29,3 @@ Express.js: Express.js serves as the backend framework for "Memories." It provid
 React: The frontend of "Memories" is built using React, a popular JavaScript library for building user interfaces. React's component-based architecture allows for the creation of interactive and dynamic web pages. Users can navigate the app seamlessly, view their timeline of memories, and interact with posts and comments, all while enjoying a responsive and intuitive user interface.
 
 Node.js: Node.js serves as the runtime environment for the server-side code in "Memories." It's ideal for building scalable and high-performance applications, handling asynchronous tasks, and providing a fast response to client requests. Node.js allows "Memories" to run server-side logic efficiently and manage real-time data updates, such as notifications and new posts.
-
-The combination of these technologies, known as the MERN stack, creates a powerful foundation for "Memories." It offers a user-friendly and secure platform for users to share, reminisce, and connect over life's special moments. The app leverages the strengths of each component to provide a seamless and engaging user experience while ensuring the scalability and maintainability of the application.
