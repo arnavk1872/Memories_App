@@ -1,6 +1,5 @@
 # Memories_App
 
-<img width="894" alt="Screenshot 2023-11-04 191312" src="https://github.com/arnavk1872/Memories_App/assets/92296669/2998618b-0a74-4602-8760-f9c79d952cdb">
 
 
 **Memories - Your Personal Storybook**
